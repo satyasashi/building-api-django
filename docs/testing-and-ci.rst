@@ -135,7 +135,7 @@ You should get this response
 Using :code:`APIClient`
 --------------------------
 
-The same test can be written using :code:`APIClient`. It has :code:`get`, :code:`.post` and family. Unlike creating requests first, with :code:`APIClient` you can GET ot POST to a url directly and get a response.
+The same test can be written using :code:`APIClient`. It has :code:`get`, :code:`.post` and family. Unlike creating requests first, with :code:`APIClient` you can GET or POST to a url directly and get a response.
 
 Add a test like this:
 
